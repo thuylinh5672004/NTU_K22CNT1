@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61AFDD31-73AD-461C-834B-0CC1ABC9B321}|lesson2\\lesson2.csproj|d:\\baitap c#\\visual studoi 2019\\web\\asp.net\\lesson2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AFDD31-73AD-461C-834B-0CC1ABC9B321}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AFDD31-73AD-461C-834B-0CC1ABC9B321}|lesson2\\lesson2.csproj|d:\\baitap c#\\visual studoi 2019\\web\\asp.net\\lesson2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61AFDD31-73AD-461C-834B-0CC1ABC9B321}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AFDD31-73AD-461C-834B-0CC1ABC9B321}|lesson2\\lesson2.csproj|d:\\baitap c#\\visual studoi 2019\\web\\asp.net\\lesson2\\views\\home\\testpartialviewresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61AFDD31-73AD-461C-834B-0CC1ABC9B321}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\views\\home\\testpartialviewresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AFDD31-73AD-461C-834B-0CC1ABC9B321}|lesson2\\lesson2.csproj|d:\\baitap c#\\visual studoi 2019\\web\\asp.net\\lesson2\\views\\home\\testviewresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61AFDD31-73AD-461C-834B-0CC1ABC9B321}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\views\\home\\testviewresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AFDD31-73AD-461C-834B-0CC1ABC9B321}|lesson2\\lesson2.csproj|d:\\baitap c#\\visual studoi 2019\\web\\asp.net\\lesson2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61AFDD31-73AD-461C-834B-0CC1ABC9B321}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319EB37D-329B-4685-B72A-303247A3D995}|aspweb\\lad1web.csproj|D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\aspweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319EB37D-329B-4685-B72A-303247A3D995}|aspweb\\lad1web.csproj|solutionrelative:aspweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AFDD31-73AD-461C-834B-0CC1ABC9B321}|lesson2\\lesson2.csproj|d:\\baitap c#\\visual studoi 2019\\web\\asp.net\\lesson2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AFDD31-73AD-461C-834B-0CC1ABC9B321}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AFDD31-73AD-461C-834B-0CC1ABC9B321}|lesson2\\lesson2.csproj|d:\\baitap c#\\visual studoi 2019\\web\\asp.net\\lesson2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AFDD31-73AD-461C-834B-0CC1ABC9B321}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AFDD31-73AD-461C-834B-0CC1ABC9B321}|lesson2\\lesson2.csproj|d:\\baitap c#\\visual studoi 2019\\web\\asp.net\\lesson2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61AFDD31-73AD-461C-834B-0CC1ABC9B321}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AFDD31-73AD-461C-834B-0CC1ABC9B321}|lesson2\\lesson2.csproj|d:\\baitap c#\\visual studoi 2019\\web\\asp.net\\lesson2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61AFDD31-73AD-461C-834B-0CC1ABC9B321}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AFDD31-73AD-461C-834B-0CC1ABC9B321}|lesson2\\lesson2.csproj|d:\\baitap c#\\visual studoi 2019\\web\\asp.net\\lesson2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61AFDD31-73AD-461C-834B-0CC1ABC9B321}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AFDD31-73AD-461C-834B-0CC1ABC9B321}|lesson2\\lesson2.csproj|d:\\baitap c#\\visual studoi 2019\\web\\asp.net\\lesson2\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61AFDD31-73AD-461C-834B-0CC1ABC9B321}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D838246-6174-49D1-B6C9-F64BF656BD73}|ASP.net\\ASP.net.csproj|d:\\baitap c#\\visual studoi 2019\\web\\asp.net\\asp.net\\views\\asphome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D838246-6174-49D1-B6C9-F64BF656BD73}|ASP.net\\ASP.net.csproj|solutionrelative:asp.net\\views\\asphome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D838246-6174-49D1-B6C9-F64BF656BD73}|ASP.net\\ASP.net.csproj|D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\asp.net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D838246-6174-49D1-B6C9-F64BF656BD73}|ASP.net\\ASP.net.csproj|solutionrelative:asp.net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D838246-6174-49D1-B6C9-F64BF656BD73}|ASP.net\\ASP.net.csproj|D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\asp.net\\controllers\\asphomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D838246-6174-49D1-B6C9-F64BF656BD73}|ASP.net\\ASP.net.csproj|solutionrelative:asp.net\\controllers\\asphomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319EB37D-329B-4685-B72A-303247A3D995}|aspweb\\aspweb.csproj|D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\aspweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319EB37D-329B-4685-B72A-303247A3D995}|aspweb\\aspweb.csproj|solutionrelative:aspweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D838246-6174-49D1-B6C9-F64BF656BD73}|ASP.net\\ASP.net.csproj|D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\asp.net\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D838246-6174-49D1-B6C9-F64BF656BD73}|ASP.net\\ASP.net.csproj|solutionrelative:asp.net\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319EB37D-329B-4685-B72A-303247A3D995}|aspweb\\lad1web.csproj|D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\aspweb\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{319EB37D-329B-4685-B72A-303247A3D995}|aspweb\\lad1web.csproj|solutionrelative:aspweb\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319EB37D-329B-4685-B72A-303247A3D995}|aspweb\\aspweb.csproj|D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\aspweb\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319EB37D-329B-4685-B72A-303247A3D995}|aspweb\\aspweb.csproj|solutionrelative:aspweb\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319EB37D-329B-4685-B72A-303247A3D995}|aspweb\\aspweb.csproj|D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\aspweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{319EB37D-329B-4685-B72A-303247A3D995}|aspweb\\aspweb.csproj|solutionrelative:aspweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319EB37D-329B-4685-B72A-303247A3D995}|aspweb\\aspweb.csproj|D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\aspweb\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{319EB37D-329B-4685-B72A-303247A3D995}|aspweb\\aspweb.csproj|solutionrelative:aspweb\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319EB37D-329B-4685-B72A-303247A3D995}|aspweb\\aspweb.csproj|D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\aspweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{319EB37D-329B-4685-B72A-303247A3D995}|aspweb\\aspweb.csproj|solutionrelative:aspweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestPartialViewResult.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\lesson2\\Views\\Home\\TestPartialViewResult.cshtml",
+              "RelativeDocumentMoniker": "lesson2\\Views\\Home\\TestPartialViewResult.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\lesson2\\Views\\Home\\TestPartialViewResult.cshtml",
+              "RelativeToolTip": "lesson2\\Views\\Home\\TestPartialViewResult.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T03:57:30.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestViewResult.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\lesson2\\Views\\Home\\TestViewResult.cshtml",
+              "RelativeDocumentMoniker": "lesson2\\Views\\Home\\TestViewResult.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\lesson2\\Views\\Home\\TestViewResult.cshtml",
+              "RelativeToolTip": "lesson2\\Views\\Home\\TestViewResult.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T03:55:18.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\aspweb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "aspweb\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\aspweb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "aspweb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:00:31.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\lesson2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "lesson2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\lesson2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "lesson2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAADYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T02:39:39.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\lesson2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "lesson2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\lesson2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "lesson2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAQwKwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:51:11.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "productController.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\lesson2\\Controllers\\productController.cs",
+              "RelativeDocumentMoniker": "lesson2\\Controllers\\productController.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\lesson2\\Controllers\\productController.cs",
+              "RelativeToolTip": "lesson2\\Controllers\\productController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:47:41.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "student.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\lesson2\\Models\\student.cs",
+              "RelativeDocumentMoniker": "lesson2\\Models\\student.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\lesson2\\Models\\student.cs",
+              "RelativeToolTip": "lesson2\\Models\\student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:11:32.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\lesson2\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "lesson2\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\lesson2\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "lesson2\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T01:43:07.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\lesson2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "lesson2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\lesson2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "lesson2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T01:42:57.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\lesson2\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "lesson2\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\lesson2\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "lesson2\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T01:43:03.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\lesson2\\Views\\product\\Index.cshtml",
+              "RelativeDocumentMoniker": "lesson2\\Views\\product\\Index.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\lesson2\\Views\\product\\Index.cshtml",
+              "RelativeToolTip": "lesson2\\Views\\product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T02:30:17.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\lesson2\\Views\\product\\Details.cshtml",
+              "RelativeDocumentMoniker": "lesson2\\Views\\product\\Details.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\lesson2\\Views\\product\\Details.cshtml",
+              "RelativeToolTip": "lesson2\\Views\\product\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T02:45:19.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\ASP.net\\Views\\asphome\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP.net\\Views\\asphome\\Index.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\ASP.net\\Views\\asphome\\Index.cshtml",
+              "RelativeToolTip": "ASP.net\\Views\\asphome\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T03:21:19.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\aspweb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "aspweb\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\aspweb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "aspweb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:33:45.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "asphomeController.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\ASP.net\\Controllers\\asphomeController.cs",
+              "RelativeDocumentMoniker": "ASP.net\\Controllers\\asphomeController.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\ASP.net\\Controllers\\asphomeController.cs",
+              "RelativeToolTip": "ASP.net\\Controllers\\asphomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:11:42.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\ASP.net\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASP.net\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\ASP.net\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASP.net\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T03:24:48.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\ASP.net\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ASP.net\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\ASP.net\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ASP.net\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:27:04.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\aspweb\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "aspweb\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\aspweb\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "aspweb\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T03:40:19.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\aspweb\\Views\\Home\\Products.cshtml",
+              "RelativeDocumentMoniker": "aspweb\\Views\\Home\\Products.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\aspweb\\Views\\Home\\Products.cshtml",
+              "RelativeToolTip": "aspweb\\Views\\Home\\Products.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T03:39:28.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\aspweb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "aspweb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\aspweb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "aspweb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T03:40:52.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\aspweb\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "aspweb\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\aspweb\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "aspweb\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:43:04.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\aspweb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "aspweb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\ASP.net\\aspweb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "aspweb\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T03:32:26.745Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
