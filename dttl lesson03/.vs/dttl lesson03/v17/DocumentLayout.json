@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Baitap c#\\visual studoi 2019\\web\\dttl lesson03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83995B0D-7977-4A77-B9A6-6888D0F6013C}|dttl lesson03\\dttl lesson03.csproj|D:\\Baitap c#\\visual studoi 2019\\web\\dttl lesson03\\dttl lesson03\\views\\dtlstudent\\ketqua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83995B0D-7977-4A77-B9A6-6888D0F6013C}|dttl lesson03\\dttl lesson03.csproj|solutionrelative:dttl lesson03\\views\\dtlstudent\\ketqua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83995B0D-7977-4A77-B9A6-6888D0F6013C}|dttl lesson03\\dttl lesson03.csproj|D:\\Baitap c#\\visual studoi 2019\\web\\dttl lesson03\\dttl lesson03\\views\\dtlstudent\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83995B0D-7977-4A77-B9A6-6888D0F6013C}|dttl lesson03\\dttl lesson03.csproj|solutionrelative:dttl lesson03\\views\\dtlstudent\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83995B0D-7977-4A77-B9A6-6888D0F6013C}|dttl lesson03\\dttl lesson03.csproj|D:\\Baitap c#\\visual studoi 2019\\web\\dttl lesson03\\dttl lesson03\\views\\dtlstudent\\addnewstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83995B0D-7977-4A77-B9A6-6888D0F6013C}|dttl lesson03\\dttl lesson03.csproj|solutionrelative:dttl lesson03\\views\\dtlstudent\\addnewstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83995B0D-7977-4A77-B9A6-6888D0F6013C}|dttl lesson03\\dttl lesson03.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dttl lesson03\\dttl lesson03\\controllers\\dtlstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83995B0D-7977-4A77-B9A6-6888D0F6013C}|dttl lesson03\\dttl lesson03.csproj|solutionrelative:dttl lesson03\\controllers\\dtlstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83995B0D-7977-4A77-B9A6-6888D0F6013C}|dttl lesson03\\dttl lesson03.csproj|D:\\Baitap c#\\visual studoi 2019\\web\\dttl lesson03\\dttl lesson03\\views\\dtlstudent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83995B0D-7977-4A77-B9A6-6888D0F6013C}|dttl lesson03\\dttl lesson03.csproj|solutionrelative:dttl lesson03\\views\\dtlstudent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83995B0D-7977-4A77-B9A6-6888D0F6013C}|dttl lesson03\\dttl lesson03.csproj|D:\\Baitap c#\\visual studoi 2019\\web\\dttl lesson03\\dttl lesson03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83995B0D-7977-4A77-B9A6-6888D0F6013C}|dttl lesson03\\dttl lesson03.csproj|solutionrelative:dttl lesson03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\dttl lesson03\\dttl lesson03\\Views\\dtlStudent\\Index.cshtml",
+              "RelativeDocumentMoniker": "dttl lesson03\\Views\\dtlStudent\\Index.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\dttl lesson03\\dttl lesson03\\Views\\dtlStudent\\Index.cshtml",
+              "RelativeToolTip": "dttl lesson03\\Views\\dtlStudent\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T07:21:15.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddNewStudent.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\dttl lesson03\\dttl lesson03\\Views\\dtlStudent\\AddNewStudent.cshtml",
+              "RelativeDocumentMoniker": "dttl lesson03\\Views\\dtlStudent\\AddNewStudent.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\dttl lesson03\\dttl lesson03\\Views\\dtlStudent\\AddNewStudent.cshtml",
+              "RelativeToolTip": "dttl lesson03\\Views\\dtlStudent\\AddNewStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T08:16:48.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dtlStudentController.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\dttl lesson03\\dttl lesson03\\Controllers\\dtlStudentController.cs",
+              "RelativeDocumentMoniker": "dttl lesson03\\Controllers\\dtlStudentController.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\dttl lesson03\\dttl lesson03\\Controllers\\dtlStudentController.cs",
+              "RelativeToolTip": "dttl lesson03\\Controllers\\dtlStudentController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:12:11.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "chiTiet.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\dttl lesson03\\dttl lesson03\\Views\\dtlStudent\\chiTiet.cshtml",
+              "RelativeDocumentMoniker": "dttl lesson03\\Views\\dtlStudent\\chiTiet.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\dttl lesson03\\dttl lesson03\\Views\\dtlStudent\\chiTiet.cshtml",
+              "RelativeToolTip": "dttl lesson03\\Views\\dtlStudent\\chiTiet.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T07:26:36.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ketqua.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\dttl lesson03\\dttl lesson03\\Views\\dtlStudent\\ketqua.cshtml",
+              "RelativeDocumentMoniker": "dttl lesson03\\Views\\dtlStudent\\ketqua.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\dttl lesson03\\dttl lesson03\\Views\\dtlStudent\\ketqua.cshtml",
+              "RelativeToolTip": "dttl lesson03\\Views\\dtlStudent\\ketqua.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T08:39:33.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\dttl lesson03\\dttl lesson03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "dttl lesson03\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\dttl lesson03\\dttl lesson03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "dttl lesson03\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T07:37:48.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
