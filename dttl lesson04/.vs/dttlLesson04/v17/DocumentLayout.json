@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Baitap c#\\visual studoi 2019\\web\\dttlLesson04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C04BD45E-30C2-463D-87C2-109D6E583351}|dttlLesson04\\dttlLesson04.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dttllesson04\\dttllesson04\\controllers\\dttlcustomerscaffdingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04BD45E-30C2-463D-87C2-109D6E583351}|dttlLesson04\\dttlLesson04.csproj|solutionrelative:dttllesson04\\controllers\\dttlcustomerscaffdingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04BD45E-30C2-463D-87C2-109D6E583351}|dttlLesson04\\dttlLesson04.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dttllesson04\\dttllesson04\\views\\dttlcustomer\\dttlcustomerdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C04BD45E-30C2-463D-87C2-109D6E583351}|dttlLesson04\\dttlLesson04.csproj|solutionrelative:dttllesson04\\views\\dttlcustomer\\dttlcustomerdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04BD45E-30C2-463D-87C2-109D6E583351}|dttlLesson04\\dttlLesson04.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dttllesson04\\dttllesson04\\controllers\\dttlcustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04BD45E-30C2-463D-87C2-109D6E583351}|dttlLesson04\\dttlLesson04.csproj|solutionrelative:dttllesson04\\controllers\\dttlcustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04BD45E-30C2-463D-87C2-109D6E583351}|dttlLesson04\\dttlLesson04.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dttllesson04\\dttllesson04\\views\\dttlcustomer\\dttllistcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C04BD45E-30C2-463D-87C2-109D6E583351}|dttlLesson04\\dttlLesson04.csproj|solutionrelative:dttllesson04\\views\\dttlcustomer\\dttllistcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04BD45E-30C2-463D-87C2-109D6E583351}|dttlLesson04\\dttlLesson04.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dttllesson04\\dttllesson04\\models\\dttlcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04BD45E-30C2-463D-87C2-109D6E583351}|dttlLesson04\\dttlLesson04.csproj|solutionrelative:dttllesson04\\models\\dttlcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04BD45E-30C2-463D-87C2-109D6E583351}|dttlLesson04\\dttlLesson04.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dttllesson04\\dttllesson04\\views\\dttlcustomerscaffding\\dttledit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C04BD45E-30C2-463D-87C2-109D6E583351}|dttlLesson04\\dttlLesson04.csproj|solutionrelative:dttllesson04\\views\\dttlcustomerscaffding\\dttledit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04BD45E-30C2-463D-87C2-109D6E583351}|dttlLesson04\\dttlLesson04.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dttllesson04\\dttllesson04\\views\\dttlcustomerscaffding\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C04BD45E-30C2-463D-87C2-109D6E583351}|dttlLesson04\\dttlLesson04.csproj|solutionrelative:dttllesson04\\views\\dttlcustomerscaffding\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04BD45E-30C2-463D-87C2-109D6E583351}|dttlLesson04\\dttlLesson04.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dttllesson04\\dttllesson04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C04BD45E-30C2-463D-87C2-109D6E583351}|dttlLesson04\\dttlLesson04.csproj|solutionrelative:dttllesson04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04BD45E-30C2-463D-87C2-109D6E583351}|dttlLesson04\\dttlLesson04.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dttllesson04\\dttllesson04\\views\\dttlcustomerscaffding\\dttlcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C04BD45E-30C2-463D-87C2-109D6E583351}|dttlLesson04\\dttlLesson04.csproj|solutionrelative:dttllesson04\\views\\dttlcustomerscaffding\\dttlcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DttlCustomerDetail.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\dttlLesson04\\dttlLesson04\\Views\\DttlCustomer\\DttlCustomerDetail.cshtml",
+              "RelativeDocumentMoniker": "dttlLesson04\\Views\\DttlCustomer\\DttlCustomerDetail.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\dttlLesson04\\dttlLesson04\\Views\\DttlCustomer\\DttlCustomerDetail.cshtml",
+              "RelativeToolTip": "dttlLesson04\\Views\\DttlCustomer\\DttlCustomerDetail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T06:58:23.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DttlCustomerScaffdingController.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\dttlLesson04\\dttlLesson04\\Controllers\\DttlCustomerScaffdingController.cs",
+              "RelativeDocumentMoniker": "dttlLesson04\\Controllers\\DttlCustomerScaffdingController.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\dttlLesson04\\dttlLesson04\\Controllers\\DttlCustomerScaffdingController.cs",
+              "RelativeToolTip": "dttlLesson04\\Controllers\\DttlCustomerScaffdingController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAA3wDEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:08:53.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DttlListCustomer.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\dttlLesson04\\dttlLesson04\\Views\\DttlCustomer\\DttlListCustomer.cshtml",
+              "RelativeDocumentMoniker": "dttlLesson04\\Views\\DttlCustomer\\DttlListCustomer.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\dttlLesson04\\dttlLesson04\\Views\\DttlCustomer\\DttlListCustomer.cshtml",
+              "RelativeToolTip": "dttlLesson04\\Views\\DttlCustomer\\DttlListCustomer.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T07:28:53.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DttlCustomerController.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\dttlLesson04\\dttlLesson04\\Controllers\\DttlCustomerController.cs",
+              "RelativeDocumentMoniker": "dttlLesson04\\Controllers\\DttlCustomerController.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\dttlLesson04\\dttlLesson04\\Controllers\\DttlCustomerController.cs",
+              "RelativeToolTip": "dttlLesson04\\Controllers\\DttlCustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:46:39.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DttlCustomer.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\dttlLesson04\\dttlLesson04\\Models\\DttlCustomer.cs",
+              "RelativeDocumentMoniker": "dttlLesson04\\Models\\DttlCustomer.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\dttlLesson04\\dttlLesson04\\Models\\DttlCustomer.cs",
+              "RelativeToolTip": "dttlLesson04\\Models\\DttlCustomer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:41:51.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DttlEdit.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\dttlLesson04\\dttlLesson04\\Views\\DttlCustomerScaffding\\DttlEdit.cshtml",
+              "RelativeDocumentMoniker": "dttlLesson04\\Views\\DttlCustomerScaffding\\DttlEdit.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\dttlLesson04\\dttlLesson04\\Views\\DttlCustomerScaffding\\DttlEdit.cshtml",
+              "RelativeToolTip": "dttlLesson04\\Views\\DttlCustomerScaffding\\DttlEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T08:45:42.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\dttlLesson04\\dttlLesson04\\Views\\DttlCustomerScaffding\\Index.cshtml",
+              "RelativeDocumentMoniker": "dttlLesson04\\Views\\DttlCustomerScaffding\\Index.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\dttlLesson04\\dttlLesson04\\Views\\DttlCustomerScaffding\\Index.cshtml",
+              "RelativeToolTip": "dttlLesson04\\Views\\DttlCustomerScaffding\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T08:18:42.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\dttlLesson04\\dttlLesson04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "dttlLesson04\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\dttlLesson04\\dttlLesson04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "dttlLesson04\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwB8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T07:05:24.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dttlCreate.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\dttlLesson04\\dttlLesson04\\Views\\DttlCustomerScaffding\\dttlCreate.cshtml",
+              "RelativeDocumentMoniker": "dttlLesson04\\Views\\DttlCustomerScaffding\\dttlCreate.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\dttlLesson04\\dttlLesson04\\Views\\DttlCustomerScaffding\\dttlCreate.cshtml",
+              "RelativeToolTip": "dttlLesson04\\Views\\DttlCustomerScaffding\\dttlCreate.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T08:28:58.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
