@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Baitap c#\\visual studoi 2019\\web\\DTTLLesson06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{044D88E1-805D-4656-B1DC-FDAAD8CC5241}|DTTLLesson06\\DTTLLesson06.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dttllesson06\\dttllesson06\\controllers\\dtlsongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D88E1-805D-4656-B1DC-FDAAD8CC5241}|DTTLLesson06\\DTTLLesson06.csproj|solutionrelative:dttllesson06\\controllers\\dtlsongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D88E1-805D-4656-B1DC-FDAAD8CC5241}|DTTLLesson06\\DTTLLesson06.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dttllesson06\\dttllesson06\\models\\dtlsong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D88E1-805D-4656-B1DC-FDAAD8CC5241}|DTTLLesson06\\DTTLLesson06.csproj|solutionrelative:dttllesson06\\models\\dtlsong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D88E1-805D-4656-B1DC-FDAAD8CC5241}|DTTLLesson06\\DTTLLesson06.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dttllesson06\\dttllesson06\\views\\dtlsong\\dtlcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{044D88E1-805D-4656-B1DC-FDAAD8CC5241}|DTTLLesson06\\DTTLLesson06.csproj|solutionrelative:dttllesson06\\views\\dtlsong\\dtlcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D88E1-805D-4656-B1DC-FDAAD8CC5241}|DTTLLesson06\\DTTLLesson06.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dttllesson06\\dttllesson06\\views\\dtlsong\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{044D88E1-805D-4656-B1DC-FDAAD8CC5241}|DTTLLesson06\\DTTLLesson06.csproj|solutionrelative:dttllesson06\\views\\dtlsong\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D88E1-805D-4656-B1DC-FDAAD8CC5241}|DTTLLesson06\\DTTLLesson06.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dttllesson06\\dttllesson06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{044D88E1-805D-4656-B1DC-FDAAD8CC5241}|DTTLLesson06\\DTTLLesson06.csproj|solutionrelative:dttllesson06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DTTLLesson06\\DTTLLesson06\\Views\\DTLSong\\Index.cshtml",
+              "RelativeDocumentMoniker": "DTTLLesson06\\Views\\DTLSong\\Index.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DTTLLesson06\\DTTLLesson06\\Views\\DTLSong\\Index.cshtml",
+              "RelativeToolTip": "DTTLLesson06\\Views\\DTLSong\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T12:44:01.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DTLCreate.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DTTLLesson06\\DTTLLesson06\\Views\\DTLSong\\DTLCreate.cshtml",
+              "RelativeDocumentMoniker": "DTTLLesson06\\Views\\DTLSong\\DTLCreate.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DTTLLesson06\\DTTLLesson06\\Views\\DTLSong\\DTLCreate.cshtml",
+              "RelativeToolTip": "DTTLLesson06\\Views\\DTLSong\\DTLCreate.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T12:24:12.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DTLSongController.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DTTLLesson06\\DTTLLesson06\\Controllers\\DTLSongController.cs",
+              "RelativeDocumentMoniker": "DTTLLesson06\\Controllers\\DTLSongController.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DTTLLesson06\\DTTLLesson06\\Controllers\\DTLSongController.cs",
+              "RelativeToolTip": "DTTLLesson06\\Controllers\\DTLSongController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwCUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:14:42.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DTLSong.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DTTLLesson06\\DTTLLesson06\\Models\\DTLSong.cs",
+              "RelativeDocumentMoniker": "DTTLLesson06\\Models\\DTLSong.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DTTLLesson06\\DTTLLesson06\\Models\\DTLSong.cs",
+              "RelativeToolTip": "DTTLLesson06\\Models\\DTLSong.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:09:44.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DTTLLesson06\\DTTLLesson06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DTTLLesson06\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DTTLLesson06\\DTTLLesson06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DTTLLesson06\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T12:25:49.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
